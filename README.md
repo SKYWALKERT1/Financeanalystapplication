@@ -11,7 +11,8 @@ Export to Excel: Export transaction data to an Excel spreadsheet for further ana
 
 ## Installation
 Clone the repository to your local machine:
-**git clone https://github.com/your_username/Personal-Finance-Tracker.git**
+**git clone https://github.com/FurkanFatihCiftci/Financeanalystapplication
+.git**
 Install the required dependencies:
 **pip install -r requirements.txt**
 **Run the application:**
